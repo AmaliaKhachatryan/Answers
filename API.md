@@ -63,3 +63,5 @@ PATCH используется для частичного изменения р
 
 
 12. Сохраните коллекцию получившихся запросов в Postman.
+
+https://github.com/AmaliaKhachatryan/Answers/blob/main/New%20Collection.postman_collection.json
